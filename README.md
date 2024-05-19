@@ -55,7 +55,7 @@ The best performing models were:
     Consider task-specific requirements and the balance between precision, recall, and accuracy when selecting the best model for deployment.
 
 ## Conclusion
-This project provided insights into the effectiveness of various NLP preprocessing techniques and vectorization methods. The use of Word2Vec embeddings improved model performance significantly. Detailed findings and interpretations can be found in the [Conclusion Section](#conclusion)
+This project provided insights into the effectiveness of various NLP preprocessing techniques and vectorization methods. The use of Word2Vec embeddings improved model performance significantly. 
 
 ## Acknowledgements
 Special thanks to Pr. Elaachak Lotfi for his guidance and support throughout this project.
