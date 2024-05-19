@@ -47,8 +47,12 @@ The models were evaluated using:
 
 ## Results
 The best performing models were:
-- Regression: [SVM] WITH
-- Classification: [SVM] with Accuracy of [0.537] 
+- Regression: [SVR] WITH LOWEST MSE AND RMSE
+- Classification: [SVM] with Accuracy of [0.537] :Interpretation of Results
+
+    Logistic Regression and SVM showed higher accuracy and classification metrics compared to Naive Bayes and AdaBoost.
+    AdaBoost and Naive Bayes provided valuable insights, particularly in classifying majority classes.
+    Consider task-specific requirements and the balance between precision, recall, and accuracy when selecting the best model for deployment.
 
 ## Conclusion
 This project provided insights into the effectiveness of various NLP preprocessing techniques and vectorization methods. The use of Word2Vec embeddings improved model performance significantly. Detailed findings and interpretations can be found in the [Conclusion Section](#conclusion)
